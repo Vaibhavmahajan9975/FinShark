@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|c:\\users\\vaibhavbhagawanmahaj\\documents\\projects\\practice_project_shailen\\finshark-master\\finshark-master\\api\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|solutionrelative:api\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|c:\\users\\vaibhavbhagawanmahaj\\documents\\projects\\practice_project_shailen\\finshark-master\\finshark-master\\api\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|solutionrelative:api\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|c:\\users\\vaibhavbhagawanmahaj\\documents\\projects\\practice_project_shailen\\finshark-master\\finshark-master\\api\\middleware\\requestloggingmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|solutionrelative:api\\middleware\\requestloggingmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|c:\\users\\vaibhavbhagawanmahaj\\documents\\projects\\practice_project_shailen\\finshark-master\\finshark-master\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|c:\\users\\vaibhavbhagawanmahaj\\documents\\projects\\practice_project_shailen\\finshark-master\\finshark-master\\api\\helpers\\commentqueryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|solutionrelative:api\\helpers\\commentqueryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|c:\\users\\vaibhavbhagawanmahaj\\documents\\projects\\practice_project_shailen\\finshark-master\\finshark-master\\api\\extensions\\claimsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|solutionrelative:api\\extensions\\claimsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|c:\\users\\vaibhavbhagawanmahaj\\documents\\projects\\practice_project_shailen\\finshark-master\\finshark-master\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|c:\\users\\vaibhavbhagawanmahaj\\documents\\projects\\practice_project_shailen\\finshark-master\\finshark-master\\api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|solutionrelative:api\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|c:\\users\\vaibhavbhagawanmahaj\\documents\\projects\\practice_project_shailen\\finshark-master\\finshark-master\\api\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|solutionrelative:api\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|c:\\users\\vaibhavbhagawanmahaj\\documents\\projects\\practice_project_shailen\\finshark-master\\finshark-master\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|c:\\users\\vaibhavbhagawanmahaj\\documents\\projects\\practice_project_shailen\\finshark-master\\finshark-master\\api\\service\\fmpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|solutionrelative:api\\service\\fmpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|c:\\users\\vaibhavbhagawanmahaj\\documents\\projects\\practice_project_shailen\\finshark-master\\finshark-master\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DF17FB3-BA77-489F-BB06-606FEFEEC1B6}|api\\api.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 194,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Program.cs",
+              "RelativeDocumentMoniker": "api\\Program.cs",
+              "ToolTip": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Program.cs",
+              "RelativeToolTip": "api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T07:26:12.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestLoggingMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Middleware\\RequestLoggingMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "api\\Middleware\\RequestLoggingMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Middleware\\RequestLoggingMiddlewareExtensions.cs",
+              "RelativeToolTip": "api\\Middleware\\RequestLoggingMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:04:55.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "api\\Middleware\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "api\\Middleware\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T10:59:41.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "api\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Service\\TokenService.cs*",
+              "RelativeToolTip": "api\\Service\\TokenService.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAawBcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:49:01.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\appsettings.json",
+              "RelativeDocumentMoniker": "api\\appsettings.json",
+              "ToolTip": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\appsettings.json",
+              "RelativeToolTip": "api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-03T11:17:29.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FMPService.cs",
+              "DocumentMoniker": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Service\\FMPService.cs",
+              "RelativeDocumentMoniker": "api\\Service\\FMPService.cs",
+              "ToolTip": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Service\\FMPService.cs",
+              "RelativeToolTip": "api\\Service\\FMPService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T10:56:44.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-03T10:40:17.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "api\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAD4vy4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:53:22.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CommentQueryObject.cs",
+              "DocumentMoniker": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Helpers\\CommentQueryObject.cs",
+              "RelativeDocumentMoniker": "api\\Helpers\\CommentQueryObject.cs",
+              "ToolTip": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Helpers\\CommentQueryObject.cs",
+              "RelativeToolTip": "api\\Helpers\\CommentQueryObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:10:27.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClaimsExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Extensions\\ClaimsExtensions.cs",
+              "RelativeDocumentMoniker": "api\\Extensions\\ClaimsExtensions.cs",
+              "ToolTip": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Extensions\\ClaimsExtensions.cs",
+              "RelativeToolTip": "api\\Extensions\\ClaimsExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T09:49:36.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Controllers\\StockController.cs",
+              "RelativeToolTip": "api\\Controllers\\StockController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:27:03.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Repository\\StockRepository.cs",
+              "RelativeDocumentMoniker": "api\\Repository\\StockRepository.cs",
+              "ToolTip": "C:\\Users\\VaibhavBhagawanMahaj\\Documents\\Projects\\Practice_Project_shailen\\FinShark-master\\FinShark-master\\api\\Repository\\StockRepository.cs",
+              "RelativeToolTip": "api\\Repository\\StockRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T10:25:24.718Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
