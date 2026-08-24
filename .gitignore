@@ -1,0 +1,38 @@
+# OS and editor
+.DS_Store
+Thumbs.db
+
+# Visual Studio / solution-local state
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Rider / Fleet
+.idea/
+.fleet/
+
+# Local databases and indexes
+*.db
+*.db-shm
+*.db-wal
+*.vsidx
+
+# Frontend local env and build artifacts
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/node_modules/
+frontend/build/
+frontend/npm
+
+# API build artifacts and local-only config
+api/bin/
+api/obj/
+api/appsettings.Development.json

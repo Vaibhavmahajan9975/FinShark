@@ -25,13 +25,21 @@ export const UserProvider = ({ children }: Props) => {
   const [user, setUser] = useState<UserProfile | null>(null);
   const [isReady, setIsReady] = useState(false);
 
+  const setAuthHeader = (authToken: string | null) => {
+    if (authToken) {
+      axios.defaults.headers.common["Authorization"] = "Bearer " + authToken;
+    } else {
+      delete axios.defaults.headers.common["Authorization"];
+    }
+  };
+
   useEffect(() => {
     const user = localStorage.getItem("user");
     const token = localStorage.getItem("token");
     if (user && token) {
       setUser(JSON.parse(user));
       setToken(token);
-      axios.defaults.headers.common["Authorization"] = "Bearer " + token;
+      setAuthHeader(token);
     }
     setIsReady(true);
   }, []);
@@ -50,6 +58,7 @@ export const UserProvider = ({ children }: Props) => {
             email: res?.data.email,
           };
           localStorage.setItem("user", JSON.stringify(userObj));
+          setAuthHeader(res?.data.token!);
           setToken(res?.data.token!);
           setUser(userObj!);
           toast.success("Login Success!");
@@ -69,6 +78,7 @@ export const UserProvider = ({ children }: Props) => {
             email: res?.data.email,
           };
           localStorage.setItem("user", JSON.stringify(userObj));
+          setAuthHeader(res?.data.token!);
           setToken(res?.data.token!);
           setUser(userObj!);
           toast.success("Login Success!");
@@ -85,6 +95,7 @@ export const UserProvider = ({ children }: Props) => {
   const logout = () => {
     localStorage.removeItem("token");
     localStorage.removeItem("user");
+    setAuthHeader(null);
     setUser(null);
     setToken("");
     navigate("/");
