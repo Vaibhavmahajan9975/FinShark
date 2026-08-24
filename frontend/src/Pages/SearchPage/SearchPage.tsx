@@ -1,5 +1,4 @@
-import React, { useState, ChangeEvent, SyntheticEvent, useEffect } from "react";
-import Navbar from "../../Components/Navbar/Navbar";
+import { useState, ChangeEvent, SyntheticEvent, useEffect } from "react";
 import { CompanySearch } from "../../company";
 import { searchCompanies } from "../../api";
 import Search from "../../Components/Search/Search";
@@ -18,7 +17,7 @@ interface Props {}
 const SearchPage = (props: Props) => {
   const [search, setSearch] = useState<string>("");
   const [portfolioValues, setPortfolioValues] = useState<PortfolioGet[] | null>(
-    []
+    [],
   );
   const [searchResult, setSearchResult] = useState<CompanySearch[]>([]);
   const [serverError, setServerError] = useState<string | null>(null);
@@ -38,7 +37,7 @@ const SearchPage = (props: Props) => {
           setPortfolioValues(res?.data);
         }
       })
-      .catch((e) => {
+      .catch(() => {
         setPortfolioValues(null);
       });
   };
@@ -52,7 +51,7 @@ const SearchPage = (props: Props) => {
           getPortfolio();
         }
       })
-      .catch((e) => {
+      .catch(() => {
         toast.warning("Could not add stock to portfolio!");
       });
   };
@@ -60,7 +59,7 @@ const SearchPage = (props: Props) => {
   const onPortfolioDelete = (e: any) => {
     e.preventDefault();
     portfolioDeleteAPI(e.target[0].value).then((res) => {
-      if (res?.status == 200) {
+      if (res?.status === 200) {
         toast.success("Stock deleted from portfolio!");
         getPortfolio();
       }
